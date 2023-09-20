@@ -6,7 +6,8 @@ Created by: ***[Bryce Canyon County (BCC) Scripts](https://bcc-scripts.com/)***
 ___
 
 ### ABOUT
-The faint flapping of wings can be heard in the distance.
+The faint flapping of wings can be heard in the distance. Feather is a new Lua based framework for RedM.
+
 ### [Official Team](https://bcc-scripts.com/team)
 
 ### SUPPORT
